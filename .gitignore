@@ -1,0 +1,105 @@
+# Unity proje klasörleri
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+.vscode/
+.idea/
+
+# Unity Cache & Profiling
+sysinfo.txt
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+*.user
+*.suo
+*.unityproj
+*.tmproj
+*.cmake
+*.vcxproj*
+*.pidb.meta
+
+# Visual Studio & Rider
+*.sln
+*.csproj
+*.vcxproj
+*.pidb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+.idea/
+*.dotCover
+
+# Auto-generated VS files
+ExportedObj/
+.consulo/
+
+# Crash Reports
+*.stacktrace
+
+# Unity Asset Store Tools
+AssetStoreTools*
+
+# Gradle cache (Android build)
+.gradle/
+gradle/
+build/
+
+# Paket ve cache
+Packages/com.unity.package-manager-ui/
+Packages/com.unity.collab-proxy/
+
+# Addressables
+AddressableAssetsData/*/catalog.json
+AddressableAssetsData/*/catalog.bundle
+AddressableAssetsData/*/catalog.hash
+
+# Burst Compiler Cache
+Library/Bee/
+Library/BurstCache/
+Library/ShaderCache/
+
+# iOS / Xcode
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Mac OS özel dosyaları
+.DS_Store
+
+# Windows özel dosyaları
+Thumbs.db
+Desktop.ini
+
+# Android
+*.apk
+*.aab
+
+# Unity Cloud Build
+UnityCloudBuild/
+
+# Diğer
+*.apk
+*.unitypackage
+*.swp
+*.lock
+*.log
+*.tmp
+
+# Rider plugin dosyaları
+.idea/
+*.iml
+
+# Test verileri (isteğe bağlı)
+*.coverage
+*.opendb

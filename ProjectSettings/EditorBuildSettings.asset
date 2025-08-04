@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu Scenes/MainMenu.unity
+    guid: 7482ffff6725bd840a9303544120b90b
+  - enabled: 1
+    path: Assets/Scenes/Restoran.unity
+    guid: c85bbb5035530f94dbb99a6ad5b62e93
+  - enabled: 1
+    path: Assets/Scenes/Chess.unity
+    guid: 7a56f4188126325498745305cecd62b7
+  - enabled: 1
+    path: Assets/Scenes/Main Menu Scenes/HowToPlayScene.unity
+    guid: 0192aeb5514dfaa419564f88c81b9a09
+  - enabled: 1
+    path: Assets/Scenes/Cinema.unity
+    guid: ac424838febc38448aa51179eed7958d
+  - enabled: 1
+    path: Assets/Scenes/CinemaInMind.unity
+    guid: 47709342754009742963b6361b6b7105
+  - enabled: 1
+    path: Assets/Scenes/Puzzle Scenes/FrequencyMatcherMinigame.unity
+    guid: a075fe5c1c1ebd94db804bc285335fa9
+  - enabled: 1
+    path: Assets/Scenes/Puzzle Scenes/OrderQuestMinigame.unity
+    guid: 0eb2a1c81c261094d9dff87e66ee68c6
+  - enabled: 1
+    path: Assets/Scenes/Puzzle Scenes/MemoryPuzzle.unity
+    guid: 087e868738bae8a4a8cc86f4c27b12e4
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
