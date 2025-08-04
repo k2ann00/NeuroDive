@@ -12,7 +12,7 @@
 | ![Dev Gif or Image](images/P3.png) | ![Dev Gif or Image](images/P2.png) | ![Dev Gif or Image](images/P4.png) | ![Dev Gif or Image](images/P1.png) | ![Dev Gif or Image](images/P5.png) |
 |:---------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | Kaan Avdan                       | Ece Koçak                       | Mustafa Toprak Sezgin                        | Ahsen Büşra Nur Güngör                       | Eşref Bakar                      |
-| Scrum Master                     | Product Owner                   | Developer                                    |  Scrum Master & Developer                    | Developer                        |
+| Lead Developer                   | Product Owner                   | Developer                                    |  Scrum Master & Developer                    | Developer                        |
 
 
 
